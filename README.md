@@ -1,8 +1,11 @@
 👋 Hey folks! I'm Kiselevych Anton, a coding enthusiast riding the tech wave with a focus on React and Java. Here's a bit about my journey so far:
 
 💼 Past Gig:
+
 @ ICAP Group GmbH
+
 📅 Nov 2022 - Dec 2023
+
 🌍 Remote, Ukraine
 
 ✨ What I Did:
