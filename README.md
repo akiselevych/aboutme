@@ -22,8 +22,8 @@ Played well with backenders and testers.
 
 🚀 Skills in My Backpack:
 
-React, Redux, Next.js, React-hook-form. <br/> 
-Framer Motion, Styled Components, TypeScript, HTML & SCSS. <br/>
+HTML & SCSS, TypeScript, React, Redux, Next.js, React-hook-form. <br/> 
+Framer Motion, Styled Components. <br/>
 Java, Spring Framework, JWT, OAuth 2.0. <br/> 
 REST API, JDBC, HIBERNATE. <br/>
 Testing with JUnit, Mockito. <br/>
